@@ -235,11 +235,14 @@ a:focus {
     margin-top: 100px;
 }
 
+<<<<<<< HEAD
 .title q{
 	margin-top:250px;
 	text-align:center;
 	}
 
+=======
+>>>>>>> FETCH_HEAD
 .slide q strong {
     white-space: nowrap;
 }
